@@ -1,121 +1,157 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Breahem Bedi",
+    "occupation": "Computer Science Graduate Student,",
+    "description": "who is looking for a software engineering job to kick start my career in the IT industry",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Since I was young, I was always fascinated by the day-to-day evolving technology. During high school, I came across an opportunity to pick up programming as a elective, which by far turned out to be the most fun subject. I loved making the programs work the way I wanted to and coming up with fun and creative designs for the front end of my applications. Since then, I have had a growing interest in software engineering, digital designing and learning new ways to code to create new applications. I have always enjoyed learning new things and am constantly seeking out new learning opportunities. My biggest ambition is to one day have a chance to work on an application that will make a big diffrence in the future.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "lovelybedi@hotmail.com",
+    "phone": "0226778982",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Margaret Street, Papakura",
+      "city": "Auckland",
+      "state": "New Zealand",
+      "zip": "2110"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Breahem Bedi CV-Updated.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/BreahemBedi/",
         "className": "fa fa-facebook"
       },
       {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/breahem-bedi",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "http://instagram.com/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "http://github.com/Breahem-Bedi",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Auckland University of Technology",
+        "degree": "Bachelor of Computer & Information Sciences",
+        "graduated": "March 2021",
+        "description": "Double Majored in Computer Science and Software Development."
+      },
+      {
+        "school": "Papatoetoe High School",
+        "degree": "NCEA Level 3",
+        "graduated": "October 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Restaurent Brands",
+        "title": "Star Crew Member",
+        "years": "February 2017 - Present",
+        "description": "Delivering of excellent customer experience, helping customers choose the right product and/or service for their requirements. Conducting problem solving and troubleshooting. Assisted in training new staff members. Developed a number of incentives for team members to achieve targets."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
         "name": "Git",
-        "level": "70%"
+        "level": "60%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Photoshop",
+        "level": "65%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Netflix",
+        "category": "A Netflix clone made using styled components and firebase (firestore & auth).",
+        "image": "netflix2.png",
+        "url": "https://netflix-clone-8e147.web.app"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Seer",
+        "category": "When you need to verify a software engineering claim, we are your curated evidence repository.",
+        "image": "seer3.png",
+        "url": "https://seer-repo.herokuapp.com/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Amazon",
+        "category": "A Full-Stack Amazon Clone, with Full E-Comm Store and Stripe.js functionality that handles real payments in the project.",
+        "image": "amazon3.png",
+        "url": "https://clone-466e7.web.app/"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "COVID-19 Tracker React App.",
+        "image": "covid3.png",
+        "url": "https://covid-19-tracking-app-a78bd.web.app/"
+      },
+      {
+        "title": "Slack",
+        "category": "Slack Clone with working channels using the firestore db.",
+        "image": "slack5.png",
+        "url": "https://slack-clone-d93f7.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "I have had the opportunity to work with Breahem on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Breahem excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "That Breahem Bedi must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak"
       }
     ]
   }
