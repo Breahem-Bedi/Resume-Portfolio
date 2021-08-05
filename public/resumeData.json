@@ -45,27 +45,27 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education": [
       {
         "school": "Auckland University of Technology",
         "degree": "Bachelor of Computer & Information Sciences",
         "graduated": "March 2021",
-        "description": "Double Majored in Computer Science and Software Development."
+        "description": "Double Majored in Computer Science and Software Development. It was here that I discovered my passion for front end development and found that I have a knack for creating awesome front-end designs and applications."
       },
       {
         "school": "Papatoetoe High School",
         "degree": "NCEA Level 3",
         "graduated": "October 2016",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "During high school, I came across an opportunity to pick up programming as a elective, which by far turned out to be the most fun subject. I loved making the programs work the way I wanted to and coming up with fun and creative designs for my python applications. Since then, I have had a growing interest in software engineering, digital designing and learning new ways to code to create new applications."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Westbourne IT Global Services",
+        "title": "Software Developer",
+        "years": "February 2019 - November 2019",
+        "description": "Year long project consisted of developing an AI Help-Desk for the client at Westbourne IT Global Services. The client had requested the implementation of a chatbot, that is to be able to respond to simple IT queries that its potential users may inquire about."
       },
       {
         "company": "Restaurent Brands",
@@ -81,11 +81,11 @@
       },
       {
         "name": "Photoshop",
-        "level": "65%"
+        "level": "75%"
       },
       {
         "name": "Illustrator",
-        "level": "55%"
+        "level": "65%"
       },
       {
         "name": "ReactJs",
@@ -93,11 +93,11 @@
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "60%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "50%"
       },
       {
         "name": "Firebase",
@@ -105,7 +105,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
@@ -147,11 +147,11 @@
     "testimonials": [
       {
         "text": "I have had the opportunity to work with Breahem on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Breahem excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user": "Kareem Abdul Jabbar"
+        "user": "Luis Hojin Ko"
       },
       {
         "text": "That Breahem Bedi must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak"
+        "user": "Rayhaan Mohammad"
       }
     ]
   }
