@@ -4,4 +4,4 @@ This portfolio is made using React. The data on the portfolio is directly linked
 # Credits
 
 Original Idea
-#### Inspiration from Tim Baker (tbakerx) - https://github.com/tbakerx/react-resume-template/blob/master/README.md
+#### Inspiration from Sonny Sangha and Tim Baker (tbakerx)
