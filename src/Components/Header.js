@@ -1,5 +1,6 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
+import Video from "../Video2.mp4";
 
 const Header = ({ data }) => {
   if (data) {
@@ -62,17 +63,41 @@ const Header = ({ data }) => {
         </ul>
       </nav>
 
+      <video
+        autoPlay
+        loop
+        muted
+        style={{
+          background: "#232a34",
+          position: "absolute",
+          width: "100%",
+          height: "100%",
+          top:"50%",
+          left: "50%",
+          objectFit: "cover",
+          transform: "translate(-50%, -50%)",
+          zIndex: "-1",
+        }}
+      >
+        <source src = {Video} type="video/mp4"/>
+      </video>
+
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+            <TypeWriter loop={5} typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+            <span style={{ color: 'red', fontWeight: 'bold' }}>
+            {/* Style will be inherited from the parent element */}
+            </span>
           </h1>
+          
           <h3>
             Based in {city}. <span>{occupation}</span>, {description}.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
         </div>
+        
       </div>
 
       <p className="scrolldown">
