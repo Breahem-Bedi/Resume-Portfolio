@@ -28,12 +28,13 @@ const Resume = ({ data }) => {
       );
     });
     var skills = data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();
+      var projectImage = 'images/tech/'+skills.image;
       return (
-        <li key={skills.name}>
-          <span style={{ width: skills.level }} className={className}></span>
-          <em>{skills.name}</em>
-        </li>
+          <div key={skills.name} className="columns feature-item">
+                  <img className='skill' alt={skills.name} src={projectImage} />
+                  <h5>{skills.name}</h5>
+                  <p>{skills.description}</p>
+          </div>
       );
     });
   }
@@ -71,13 +72,10 @@ const Resume = ({ data }) => {
           </h1>
         </div>
 
-        <div className="nine columns main-col">
-          <p>{skillmessage}</p>
-
-          <div className="bars">
-            <ul className="skills">{skills}</ul>
-          </div>
-        </div>
+        <div><p className="lead center margin">{skillmessage}</p></div>
+				   <ul className="my-works">
+					  {skills}
+					 </ul>
       </div>
     </section>
   );
