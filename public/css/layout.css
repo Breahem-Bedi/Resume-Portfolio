@@ -283,8 +283,15 @@ ul#nav li.current a { color: #F06000; }
 #resume .my-works {
    display: inline-grid;
    gap: 10px;
-   grid-template-columns: repeat(4, minmax(min-content, 1fr));
+   grid-template-columns: repeat(4, minmax(260px, 1fr));
+   grid-auto-columns: minmax(260px, 1fr);
 }
+@media (max-width: 459px) {
+   #resume .my-works {
+     display: flex;
+     flex-direction: column;
+   }
+ }
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
@@ -299,8 +306,15 @@ ul#nav li.current a { color: #F06000; }
 #portfolio .my-works {
    display: inline-grid;
    gap: 10px;
-   grid-template-columns: repeat(4, minmax(min-content, 1fr));
+   grid-template-columns: repeat(4, minmax(260px, 1fr));
+   grid-auto-columns: minmax(260px, 1fr);
 }
+@media (max-width: 459px) {
+   #portfolio .my-works {
+     display: flex;
+     flex-direction: column;
+   }
+ }
 
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
